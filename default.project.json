@@ -1,5 +1,5 @@
 {
-	"name": "MODULE_NAME",
+	"name": "SuperQuest",
 	"tree": {
 		"$className": "DataModel",
 		"ServerScriptService": {

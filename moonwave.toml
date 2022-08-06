@@ -1,4 +1,4 @@
-gitRepoUrl = "https://github.com/xSwezan/MODULE_NAME"
+gitRepoUrl = "https://github.com/xSwezan/SuperQuest"
 gitSourceBranch = "main"
 
 classorder = [
@@ -10,4 +10,5 @@ enabled = true
 includeReadme = false
 
 [docusaurus]
-tagline = "PLACEHOLDER"
+tagline = "Powerful Quest System with Rich API!"
+favicon = "/Icon.png"

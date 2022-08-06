@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[755],{63891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/xSwezan/SuperQuest/blob/main","baseUrl":"/SuperQuest/","classOrder":[],"apiCategories":[]}')}}]);

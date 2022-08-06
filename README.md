@@ -1,2 +1,2 @@
-# SuperCommand
-Powerful Chat Command module!
+# SuperQuest
+Powerful Quest module!
